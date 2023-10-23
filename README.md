@@ -4,8 +4,6 @@ Este projeto aborda um dos desafios contemporâneos no campo do Machine Learning
 
 Para superar essa limitação, este projeto se concentra no Aprendizado de Métrica (Metric Learning), uma abordagem do campo do Deep Learning. Em vez de classificar indivíduos, treinamos modelos para aprender uma métrica de distância entre entidades, gerando um vetor descritor exclusivo para cada pessoa. Esse vetor descreve as características distintivas de seus rostos, permitindo a inclusão de novas pessoas no banco de dados sem a necessidade de re-treinamento do modelo.
 
-No entanto, a disseminação das máscaras faciais durante a pandemia da COVID-19 introduziu um novo desafio. As máscaras cobrem parte essencial do rosto, da qual os modelos de Deep Learning tradicionalmente extraem características para calcular o vetor descritor. Como resultado, os modelos de reconhecimento facial enfrentaram um aumento nas taxas de falha.
-
 Neste projeto, você enfrentará o desafio de:
 
 1. Treinar uma rede neural em um conjunto de dados que apresenta uma ampla variedade de celebridades.
